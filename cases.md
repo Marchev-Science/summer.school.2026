@@ -1,7 +1,7 @@
 ## The cases for this year's Summer school are:
 
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025) 
-
+<!--
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
 
@@ -61,8 +61,10 @@ In the code or in additional files (or markdown texts) there should be:
 * The delivered filenames should strictly follow these requirements: no cyrillic or other exotic languages or symbols, no intervals, no capital letters  
 * You should not deliver anything which is not rendered or produced by your code - the code can produce it on its own. If you want to specifically showcase some data/chart/other, put them in the documentation file and describe it  
 4. There could be more than one solution per team, but this has to be explained in the texts.    
-5. Each team will be given about 15-20 minutes to present their solutions followed by Q&A session.  
+5. Each team will be given about 15-20 minutes to present their solutions followed by Q&A session.
 
 
 
 
+
+-->
