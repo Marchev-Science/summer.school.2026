@@ -2,7 +2,7 @@
 # Summer School on Modeling, AI, and Complex Systems '2026
 
 <!--<img src="img/summer-school-2025-1.jpg" width="100%">-->
-<!-- <img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%"> -->  
+<img src="img/gyulech.png" width="100%">    
 
 **Organized by**
 
@@ -31,15 +31,15 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/crisp_labs_logo.jpeg" width="200"></th>
-<!--    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
-    <th></th>   -->
+    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
+    <th></th>   
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
-<!--    <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
-    <td>Radoslav Rusinov</td>   
-    <td></td> -->
+    <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
+    <td></td>   
+    <td></td>
   </tr>
  </table>
 
