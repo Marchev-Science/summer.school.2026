@@ -1,7 +1,7 @@
 
-# Summer School on Modeling, AI, and Complex Systems '2025
+# Summer School on Modeling, AI, and Complex Systems '2026
 
-<img src="img/summer-school-2025-1.jpg" width="100%">
+<!--<img src="img/summer-school-2025-1.jpg" width="100%">-->
 <!-- <img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%"> -->  
 
 **Organized by**
@@ -15,10 +15,10 @@
     <th><img src="img/small_logo_unwe.png" width="100"></th>
     <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://faculties.unwe.bg/management/en/pages/1590/history.html">https://faculties.unwe.bg/management/en/</a></td>
   </tr>
-  <tr>
+  <!--<tr>
     <th><img src="img/fisn.jpg" height="50"><img src="img/exante.png" height="50"></th>
     <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski" <br>Project Exante<br><a href="https://fisn.uni-plovdiv.bg/">https://fisn.uni-plovdiv.bg/</a></td>
-  </tr>
+  </tr>-->
   <tr>
     <th><img src="img/small_logo_fdiba.png"></th>
     <td>FDIBA German Engineering and Industrial Management Faculty, Technical University - Sofia<br><a href="https://fdiba.tu-sofia.bg/">https://fdiba.tu-sofia.bg/</a></td>
@@ -31,15 +31,15 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGP-seUlJJh_w/company-logo_200_200/company-logo_200_200/0/1680427640322?e=1752710400&v=beta&t=kImvnJbqS-Tj1cJG3fmO5hzDwXwXAT3k2-Sa53ZO9V8" width="200"></th>
-    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
-    <th></th>   
+<!--    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
+    <th></th>   -->
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
-    <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
+<!--    <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
     <td>Radoslav Rusinov</td>   
-    <td></td>
+    <td></td> -->
   </tr>
  </table>
 
@@ -58,25 +58,25 @@ Associate Partners
 -->
 ## Acknowledgements 
 This Summer school is partially funded by:  
-* ***Science and research Fund at Sofia University contract 80-10-24/21.05.2025***  
-* ***University of National and World Economy contract NID NF-11/2025/B***   
-* ***European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01***  
+* ***Science and research Fund at Sofia University contract***  
+* ***University of National and World Economy contract***   
+
 
   
 ## Application  
  
-**Location**: [The Rila Lakes Lodge, Rila Mountain, Bulgaria](https://maps.app.goo.gl/Z8dcWHLX4DMoifxs8)  
+**Location**: [Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA)  
 
   
-**Time**: June 20 - June 29, 2025   
+**Time**: June 19 - June 28, 2026   
   
 **Target audience**: PhD students in their first 18 months and advanced graduates (master students).   
   
 **Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.  
   
-**Application**: <!--**<span style="color: red;">EXTENDED</span>**--> Deadline for student application is May 15, 2025 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
+**Application**: <!--**<span style="color: red;">EXTENDED</span>**--> Deadline for student application is May 26, 2026 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
 Only some applications would be approved, who will be notified by e-mail on June 02 and will recieve further instructions.    
-Participation in the Summer school is free of charge (accomodation is partially covered by the the organizers - read further).  
+Participation in the Summer school is free of charge (accomodation is partially covered by the the organizers - read further below).  
 
 
 
@@ -89,9 +89,9 @@ Participation in the Summer school is free of charge (accomodation is partially 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects.  
   
 ## Accomodation  
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 20 June, Friday**, at [the base station of the lift](https://maps.app.goo.gl/vxkNeV9uwThbqqWx6).    
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 19 June, Friday**, at the [Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA).    
   
-**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
+**Accommodation**: The students are accommodated in pairs / threes in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
   
 **Daily schedule**:  
 08:00 - 09:00 Breakfast  
@@ -100,11 +100,11 @@ Participation in the Summer school is free of charge (accomodation is partially 
 14:00 - 17:00 Workshops in the classroom   
 After 17:00 working on team assignment"   
 19:00 Dinner   
-"The classroom could be used until late, but no loud noises permitted.  
+"The classroom and other public rooms could be used until late.  
 
 
 ## Certification  
-**Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. [See information about the cases here...](cases.md)-->  
+**Cases**: As part of the Summer school the participants grouped in teams would have to solve and present a case, out of several options, which will be given on the first day. [See information about the cases here...](cases.md)-->  
   
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school in a special ceremony after the end of the Summer school. The requirements are:  
 1) at least 70% active participation in the classes  
@@ -112,20 +112,22 @@ After 17:00 working on team assignment"
 3) Presented paper at a conference or seminar, showcasing knowledge and skills educated throughout the Summer school.  
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
   
-<img src="img/summer-school-2025-class.jpg" width="100%">  
+<!--<img src="img/summer-school-2025-class.jpg" width="100%">-->  
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
 <!--<img src="img/elipse.png" width="200px" align="right">-->
 * Python 3.9 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
-<!--* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)-->  
+* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)  
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)  
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)  
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)
 * Registration in ChatGPT (preferably paid) [https://chat.openai.com](https://chat.openai.com)
+* Registration in Claud.AI (preferably paid) [https://claude.ai](https://claude.ai/)
+* Registration in Google Gemini (preferably paid) [https://gemini.google.com](https://gemini.google.com/)   
 * Registration in Hugging Face [https://huggingface.co/](https://huggingface.co/)   
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
 
@@ -133,9 +135,9 @@ Apart from concentrating during the classes, the aproved participants should mak
 
 <b>NOTE!! Failure to bring a personal computer with you would make impossible your participation in the Summer school </b>
 
-
+<!--
 ## Preliminary readings  
-All students should make sure to watch [these materials in advance...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDarUc8m0E37Uv5e64w8FtA)   
+All students should make sure to watch [these materials in advance...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDarUc8m0E37Uv5e64w8FtA)  --> 
 
 ## Contacts  
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)  
@@ -154,7 +156,7 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Angel Marchev Jr. - UNWE, SU (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. - UNWE (angel_marchev@yahoo.co.uk)  
 * Boryana Pelova - SU (bpelova@feb.uni-sofia.bg)  
-* Boyan Markov - UNWE (boyanmarkov@gmail.com)   
+<!--* Boyan Markov - UNWE (boyanmarkov@gmail.com)-->   
 * Demir Tonchev -  (tonchev.demir@gmail.com)  
 * Denitza Gavrailova - SU (d.gavrilova@feb.uni-sofia.bg)  
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)
@@ -167,11 +169,13 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)  
 * Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
 * Petar Nikolov - CuneiForm (petarnikolov1989@gmail.com)
-* Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
+<!--* Radoslav Rusinov - UNWE (rusinovr@abv.bg)-->  
 * Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)
 * Yordan Madzunkov - Metacraft Labs (tbd)
 <!--* Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)-->  
 <!--* Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)-->  
+<!--* Metodi Nikolov - Man Group ()-->  
+* Georgi Kirov - CrispLabs ()  
 
 
   
@@ -190,11 +194,12 @@ Summer School on Modeling and Complex Systems
 [ [2023](https://marchev-science.github.io/Summer.School.2023/) ]   
 Summer School on Modeling, AI and Complex Systems  
 [ [2024](https://marchev-science.github.io/Summer.School.2024/) ]   
+[ [2025](https://marchev-science.github.io/Summer.School.2025/) ]   
 
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="img/summer-school-2025-2.jpg" width="100%">
+<!--<img src="img/summer-school-2025-2.jpg" width="100%">-->
 
 
 ## Programme  
