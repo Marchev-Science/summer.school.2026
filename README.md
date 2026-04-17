@@ -59,7 +59,7 @@ Associate Partners
 ## Acknowledgements 
 This Summer school is partially funded by:  
 * ***Science and research Fund at Sofia University contract***  
-* ***University of National and World Economy contract***   
+* ***University of National and World Economy contract NID NF-15/2026/B***   
 
 
   
@@ -104,7 +104,7 @@ After 17:00 working on team assignment"
 
 
 ## Certification  
-**Cases**: As part of the Summer school the participants grouped in teams would have to solve and present a case, out of several options, which will be given on the first day. [See information about the cases here...](cases.md)-->  
+**Cases**: As part of the Summer school the participants grouped in teams would have to solve and present a case, out of several options, which will be given on the first day. [See information about the cases here...](cases.md)    
   
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school in a special ceremony after the end of the Summer school. The requirements are:  
 1) at least 70% active participation in the classes  
@@ -175,7 +175,7 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 <!--* Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)-->  
 <!--* Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)-->  
 <!--* Metodi Nikolov - Man Group ()-->  
-* Georgi Kirov - CrispLabs ()  
+* Georgi Kirov - CrispLabs (georgi@crisplabs.ai)  
 
 
   
