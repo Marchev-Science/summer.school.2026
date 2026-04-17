@@ -2,7 +2,7 @@
 # Summer School on Modeling, AI, and Complex Systems '2026
 
 <!--<img src="img/summer-school-2025-1.jpg" width="100%">-->
-<img src="img/gyulech.png" width="100%">    
+<img src="img/gyulech-math.png" width="100%">    
 
 **Organized by**
 
@@ -65,7 +65,7 @@ This Summer school is partially funded by:
   
 ## Application  
  
-**Location**: [Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA)  
+**Location**: [Educational and scientific base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA)  
 
   
 **Time**: June 19 - June 28, 2026   
