@@ -1,6 +1,6 @@
 ## The cases for this year's Summer school are:
 
-The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025) 
+The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 20.06.2026) 
 <!--
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
