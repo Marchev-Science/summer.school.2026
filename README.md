@@ -20,7 +20,7 @@
     <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski" <br>Project Exante<br><a href="https://fisn.uni-plovdiv.bg/">https://fisn.uni-plovdiv.bg/</a></td>
   </tr>-->
   <tr>
-    <th><img src="img/logo_FA_2_13.png"></th>
+    <th><img src="img/logo_FA_2_13.png" width="100"></th>
     <td>FA Faculty of Automatics, Technical University - Sofia<br><a href="tu-sofia.bg/faculties/read/13">tu-sofia.bg/faculties/read/13</a></td>
    </tr>
  </table>
