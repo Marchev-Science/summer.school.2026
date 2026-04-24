@@ -65,7 +65,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 
 ## **2026-06-22 Probabilities**  
-  09:30 - 11:00 Mladen Savov - Introduction to probability (recorded)  
+  09:30 - 11:00 TBD - Introduction to probability  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](rusinov/readme.md)   
@@ -97,7 +97,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Alexander Efremov - Automation in credit scoring      
+  14:00 - 17:00 Workshop: Alexander Efremov - Kalman filter      
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](efremov/readme.md)   
@@ -123,7 +123,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 15:00 Boryana Pelova - A Case study with SHARE data (Online)      
+  14:00 - 15:00 Boryana Pelova - TBD     
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](pelova/readme.md)   
@@ -224,27 +224,29 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2026-06-28 Perspectives**  
     
 
-   9:30 - 11:00 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
+   9:30 - 10:30 Lalka Stoeva - TBD   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](lyubchev/readme.md)  
+* [materials](stoeva/readme.md)
 
 <a/>  
 
-  11:00 - 11:30 Georgi Kirov - Crisp Labs - Harness the Future of AI & Data (Online)   
+   11:00 - 12:30 Alexander Hertzog - Federated Learning         
   
   
-    
+<a/>      
   
-  12:30 - 16:00 Conference - presentation of the solutions to the case assignments   
+  13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-<!--
+<!--  
+
 * [solution 1](cases/solution1/readme.md)  
 * [solution 2](cases/solution2/readme.md)  
 * [solution 3](cases/solution3/readme.md)  
 * [solution 4](cases/solution4/readme.md)  
 * [solution 5](cases/solution5/readme.md)    
+
 -->
 
 <a/>  
