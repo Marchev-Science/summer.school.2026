@@ -239,6 +239,8 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+
+
 <!--  
 
 * [solution 1](cases/solution1/readme.md)  
