@@ -5,12 +5,16 @@ The cases for this year's Summer school are going to be revieled here on the sec
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
 
-### 1. Forecasting and automate trading of Crypto assets  
+### 1. Analysis EEG  
 
-[Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)  
+[Case text and data...](https://github.com/Marchev-Science/case-EEG-analysis)  
+
+<!--
+
 [Solution](cases/solution1/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
+-->
 
 ### 2. Autonomous short video factory and publishing system  
 
