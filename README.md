@@ -117,7 +117,7 @@ Note: Participants who cannot take part fulltime and/or would not comply with th
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
 <!--<img src="img/elipse.png" width="200px" align="right">-->
-* Python 3.9 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
+* Python 3.12 or higher [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)  
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)  
