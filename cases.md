@@ -9,12 +9,12 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 [Case text and data...](https://github.com/Marchev-Science/case-EEG-analysis)  
 
-<!--
+
 
 [Solution](cases/solution1/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
--->
+
 
 ### 2. Autonomous short video factory and publishing system  
 
