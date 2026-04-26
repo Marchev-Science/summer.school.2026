@@ -16,31 +16,36 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 
 
-### 2. Autonomous short video factory and publishing system  
+### 2. Autonomous agent using Auto claw  
 
-[Case text and data...](https://github.com/Marchev-Science/case-ai-digital-creator)    
+[Case text and data...](https://)
+
+
 [Solution](cases/solution2/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
-### 3. Automated inventory management and optimization   
+### 3. Computer vision event detection   
 
-[Case text and data...](https://github.com/Marchev-Science/case-automated-inventory-management)    
+[Case text and data...](https://)
+
+
 [Solution](cases/solution3/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
-### 4. Study of longevity & Self-perceived health factors    
+### 4. Study of longevity     
 
-[Case text and data...](https://github.com/Marchev-Science/case-share-self-percieved-health)    
+[Case text and data...](https://)    
 [Solution](cases/solution4/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
 
-### 5. Study of nutrition habits with relation to food waste       
+### 5. Prediction of electricity prices on exchange       
 
-[Case text and data...](https://github.com/Marchev-Science/case-fao-nutrition-food-waste)    
+[Case text and data...](https://)  
+
 [Solution](cases/solution5/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
