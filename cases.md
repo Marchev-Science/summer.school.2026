@@ -34,9 +34,10 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
-### 4. Study of longevity     
+### 4. Simulation studies on demographics of longevity    
 
 [Case text and data...](https://)    
+
 [Solution](cases/solution4/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
