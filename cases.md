@@ -1,6 +1,10 @@
 ## The cases for this year's Summer school are:
 
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 20.06.2026)     
+
+
+
+
 <!--    
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
@@ -50,10 +54,14 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 [Solution](cases/solution5/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
--->    
 
 
-<!--    
+
+
+
+
+
+
 
 ## Delivery of the case solutions:
 
