@@ -50,8 +50,8 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 [Solution](cases/solution5/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
-
-
+-->
+<!--
 
 ## Delivery of the case solutions:
 
