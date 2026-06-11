@@ -8,15 +8,15 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 PLease, leave constructive feedback for each lector by filling in this anonymous form: [https://bit.ly/marchev-feedback](https://bit.ly/marchev-feedback)
 
 ## **2026-06-19 Openning**  
-  before 18:30 Accomodation   
+  before 19:30 Accomodation   
   
 <a/>  
 
-  19:00 - 19:30 Organizational issues  
+  19:30 - 20:00 Organizational issues  
   
 <a/>  
 
-  19:30 - 21:00 Networking exercise  
+  20:00 - 21:00 Networking exercise  
 
 
 ## **2026-06-20 Fundamentals**  
@@ -34,14 +34,14 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  15:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
+  15:00 - 17:00 Workshop: Angel Marchev, Jr. - Explaining the cases    
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](marchev-jr/readme.md)    
 
 <a/>  
 
-17:00 - 19:30 Workshop: Explaining the cases    
+17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
 ## **2026-06-21 Data mining**  
@@ -52,23 +52,26 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:30 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
+  14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](haralampiev/readme.md)   
 
 <a/>  
 
-  17:30 - 17:30 Group photo  
+  17:00 - 17:00 Group photo  
   
-  18:00 - 19:30 Workshop: Teamwork on case assignments  
-  
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments    
+
+
 
 ## **2026-06-22 Probabilities**  
-  09:30 - 11:00 TBD - Introduction to probability  
+  09:30 - 11:00 Demir Tonchev - Introduction to probability  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](rusinov/readme.md)   
+* [materials](tonchev/readme.md)   
 
 <a/>
 
@@ -79,10 +82,17 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-   14:00 - 17:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics & Case study   
+  14:00 - 15:00 Kaloyan Haralampiev - Foundamentals of demographic analysis   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](marchev-jr/readme.md)    
+* [materials](haralampiev/readme.md)    
+
+<a/>  
+
+  15:30 - 17:00 Boyan Markov - Best practices on using AI tools for research        
+
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](markov/readme.md)    
 
 <a/>  
 
@@ -97,43 +107,43 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Alexander Efremov - Kalman filter      
-
+  14:00 - 17:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics & Case study   
+  
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](efremov/readme.md)   
+* [materials](haralampiev/readme.md)   
 
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 
-## **2026-06-24 Applications**  
+## **2026-06-24 Time series**  
 
-  09:30 - 11:00 Angel Marchev, Jr. - Feature engineering  
-
+  09:30 - 11:30 Alexander Efremov - Kalman filter      
+  
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](marchev-jr/readme.md)   
+* [materials](efremov/readme.md)   
 
 <a/>  
 
-  11:30 - 13:00 Milen Chechev - Current forecasting approaches and challenges    
-
-* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](chechev/readme.md)   
-
-<a/>  
-
-  14:00 - 15:00 Boryana Pelova - TBD     
+  12:00 - 13:00 Boryana Pelova - Advanced time series techniques    
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](pelova/readme.md)   
 
 <a/>  
 
-  15:30 - 17:30 Workshop: Deyan Radev - Writting a scientific article (Online)      
+  14:00 - 15:00 TBD - TBD     
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](radev/readme.md)   
+* [materials](pelova/readme.md)   
+
+<a/>  
+
+  15:30 - 17:00 Workshop: Angel Marchev, Jr. - Feature engineering  
+  
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](marchev-jr/readme.md)   
 
 <a/>  
 
@@ -148,18 +158,25 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  12:00 - 13:00 Yordan Madzhunkov - How to generate an image  
+  12:00 - 13:00 Sergey Vichev - Evaluations in LLMs     
 
 
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-  * [materials](madzunkov/readme.md)   
+  * [materials](vichev/readme.md)   
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Demir Tonchev - Workshop: Make your own AI      
+  14:00 - 15:00 Workshop: Deyan Radev - Writting a scientific article (Online)      
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](tonchev/readme.md)   
+* [materials](radev/readme.md)   
+
+<a/>  
+
+  15:30 - 17:00 Workshop: Pavel Nikolov - Agentic AI      
+
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](panikolov/readme.md)   
 
 <a/>  
 
@@ -168,10 +185,10 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 
 ## **2026-06-26 Artificial Neural Networks**  
-  09:30 - 11:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
+  09:30 - 11:00 Angel Marchev, Jr. - Introduction to Artificial Neural Networks (Online)  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](kabaivanov/readme.md)   
+* [materials](marchev-jr/readme.md)   
 
 <a/>  
 
@@ -182,10 +199,17 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Denitza Gavrailova - Graph artificial neural networks (Online)  
+  14:00 - 15:00 Peter Nikolov - Quantum Neuron Networks     
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](gavrailova/readme.md)   
+* [materials](penikolov/readme.md)   
+
+<a/>  
+
+  15:30 - 17:00 Dimitar Lyubchev - Neuro-evolutionary techniques  
+
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](lyubchev/readme.md)   
 
 <a/>  
 
@@ -201,24 +225,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 16:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
+  14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](nikolov-pa/readme.md)   
+* [materials](panikolov/readme.md)   
 
+<a/> 
+
+  17:00 - 17:00 Group photo  
+  
 <a/>  
 
-16:30 - 17:30 Peter Nikolov - Backtesting of financial models   
-
-* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](nikolov-pe/readme.md)   
-
-<a/>. 
-
-17:30 - 18:00 Group photo  
-<a/>  
-
-  18:00 - 19:30 Workshop: Teamwork on case assignments    
+  17:00 - 19:30 Workshop: Teamwork on case assignments    
 
   
 ## **2026-06-28 Perspectives**  
@@ -227,16 +245,19 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
    9:30 - 10:30 Lalka Stoeva - TBD   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](stoeva/readme.md)
+* [materials](stoeva/readme.md)   
 
 <a/>  
 
-   11:00 - 12:30 Alexander Hertzog - Federated Learning         
-  
+   11:00 - 12:00 Crisp Labs - TBD            
+
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](stoeva/readme.md)   
+
   
 <a/>      
   
-  13:30 - 17:00 Conference - presentation of the solutions to the case assignments   
+  13:00 - 17:00 Conference - presentation of the solutions to the case assignments   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 
