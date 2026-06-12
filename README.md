@@ -89,7 +89,7 @@ Participation in the Summer school is free of charge (accomodation is partially 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects.  
   
 ## Accomodation  
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 19 June, Friday**, at the [Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA).    
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **19:00, on 19 June, Friday**, at the [Educational and scientific base base Cvetan Bonchev - Gyulechica, Rila Mountain, Bulgaria](https://maps.app.goo.gl/vCrYxaXvo6jwrQpXA).    
   
 **Accommodation**: The students are accommodated in pairs / threes in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
   
