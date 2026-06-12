@@ -126,10 +126,11 @@ Apart from concentrating during the classes, the aproved participants should mak
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)
 * Registration in ChatGPT (preferably paid) [https://chat.openai.com](https://chat.openai.com)
-* Registration in Claud.AI (preferably paid) [https://claude.ai](https://claude.ai/)
+* Registration in Claude.AI (preferably paid) [https://claude.ai](https://claude.ai/)
 * Registration in Google Gemini (preferably paid) [https://gemini.google.com](https://gemini.google.com/)   
-* Registration in Hugging Face [https://huggingface.co/](https://huggingface.co/)   
-<!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
+* Registration in Hugging Face [https://huggingface.co/](https://huggingface.co/)
+* Registration in Google Colab [https://colab.research.google.com/?hl=en](https://colab.research.google.com/?hl=en)   
+* Zoom [https://zoom.com](https://zoom.com) with installed personal photo  
 
 <a/>
 
