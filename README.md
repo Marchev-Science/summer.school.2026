@@ -172,7 +172,7 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Petar Nikolov - CuneiForm (petarnikolov1989@gmail.com)
 <!--* Radoslav Rusinov - UNWE (rusinovr@abv.bg)-->  
 <!--* Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)-->  
-<!--* Yordan Madzunkov - Metacraft Labs (tbd)-->  
+* Yordan Madzunkov - Metacraft Labs (tbd)  
 <!--* Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)-->  
 <!--* Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)-->  
 <!--* Metodi Nikolov - Man Group ()-->  
