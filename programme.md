@@ -133,17 +133,17 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 15:00 TBD - TBD     
-
-* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](pelova/readme.md)   
-
-<a/>  
-
-  15:30 - 17:00 Workshop: Angel Marchev, Jr. - Feature engineering  
+  14:00 - 15:30 Workshop: Angel Marchev, Jr. - Feature engineering  
   
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](marchev-jr/readme.md)   
+
+<a/>  
+
+  16:00 - 17:00 TBD - TBD     
+
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](madzunkov/readme.md)   
 
 <a/>  
 
