@@ -32,13 +32,13 @@
   <tr>
     <th><img src="img/crisp_labs_logo.jpeg" width="200"></th>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
-    <th></th>   
+    <th><img src="https://autegry.com/lovable-uploads/7deed23c-be53-4ad5-aaab-04474a25e582.png" width="200"></th>   
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
     <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
-    <td></td>   
+    <td>Autegry<br><a href="https://autegry.com/en/">https://autegry.com/en/</a></td>   
     <td></td>
   </tr>
  </table>
