@@ -2,9 +2,6 @@
 
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 20.06.2026)     
 
-
-
-
 <!--    
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
@@ -67,7 +64,7 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 ## Delivery of the case solutions:
 
-1. Before the deadline (12:00,29.06.2025) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
+1. Before the deadline (13:00,28.06.2026) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
 2. The solution should consist of several files (4-5 max) without subfolders, at least the following:  
 * Code / workflow files which could be run on some of the required software for the summer school.  
 In the code or in additional files (or markdown texts) there should be:  
@@ -76,7 +73,7 @@ In the code or in additional files (or markdown texts) there should be:
 * a text explaining delivered filenames with a sentance of description  
 3. Code requrements  
 * Submit in the correct, working file format (e.g., .R instead of .txt or .py instead of .txt)  
-* The software should be self-contained - installation of all necessary libraries should be included, and if possible: define the entire working environment (environment)  
+* The software should be self-contained - installation of all necessary libraries should be included, and if possible: define the entire working environment (environment) - consider using google colab (or similar contained environment), which mitigates most of the problems.  
 * List of library and version requirements  
 * Independence from the operating system  
 * Acceptable clear formatting  
