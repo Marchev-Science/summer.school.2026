@@ -9,27 +9,34 @@ The cases for this year's Summer school are going to be revieled here on the sec
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
 
-### 1. Analysis EEG  
+### 1. Longevity and the Labour Market    
+
+[Case text and data...](https://github.com/Marchev-Science/case-longevity-and-labour-market)    
+
+[Solution](cases/solution4/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
+
+
+
+### 2. Forecasting Electricity Demand, Supply, and Price in Bulgaria       
+
+[Case text and data...](https://github.com/Marchev-Science/case-predict-electricity-prices)  
+
+[Solution](cases/solution5/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
+
+
+
+### 3. Analysis of EEG data  
 
 [Case text and data...](https://github.com/Marchev-Science/case-EEG-analysis)  
-
-
 
 [Solution](cases/solution1/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
 
-### 2. Autonomous agent using Auto claw  
-
-[Case text and data...](https://)
-
-
-[Solution](cases/solution2/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
-
-
-### 3. Computer vision event detection   
+### 4. Computer vision event detection   
 
 [Case text and data...](https://)
 
@@ -38,21 +45,16 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
-### 4. Simulation studies on demographics of longevity    
 
-[Case text and data...](https://)    
+### 5. A Multi-Agent System for Automated Data Science  
 
-[Solution](cases/solution4/readme.md)  
+[Case text and data...](https://github.com/Marchev-Science/case-multi-agent-system-for-automated-data-science)
+
+
+[Solution](cases/solution2/readme.md)  
 [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
-
-### 5. Prediction of electricity prices on exchange       
-
-[Case text and data...](https://)  
-
-[Solution](cases/solution5/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
 
 
