@@ -38,7 +38,7 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 ### 4. Computer vision event detection   
 
-[Case text and data...](https://)
+[Case text and data...](https://github.com/Marchev-Science/case-pickup-putdown-event-detection)
 
 
 [Solution](cases/solution3/readme.md)  
