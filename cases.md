@@ -5,6 +5,8 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
+[Teams for the cases...](https://docs.google.com/spreadsheets/d/1WSv76OaTu7spAipzpHlRfanrYWhxcNFVs5wi5z2m6vQ/edit?usp=sharing)
+
 
 ### 1. Longevity and the Labour Market    
 
