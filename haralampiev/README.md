@@ -1,6 +1,6 @@
 Orange workshop:  
 [telco.xlsx](telco.xlsx)  
-[Summer_school_2024.ows](Summer_school_2025.ows)   
+<!-- [Summer_school_2026.ows](Summer_school_2026.ows)  -->   
 [ETHNICITY NON-IDENTIFICATION IN 2011 CENSUS IN BULGARIA](192-Article-Text-573-1-10-20200222.pdf)  
 [Considering the Role of Behavioural Fatigue in the COVID-19 Lockdown Debates in Great Britain: A Retrospective Analysis of a National Survey Assessing the Relationships between Capability, Opportunity, Motivation, and Behaviour](behavsci-14-00852-with-cover.pdf)   
 [Supplementary Files S1](behavsci-3142676-supplementary.pdf)   
