@@ -1,8 +1,8 @@
 
 # Summer School on Modeling, AI, and Complex Systems '2026
 
-<!--<img src="img/summer-school-2025-1.jpg" width="100%">-->
-<img src="img/gyulech-math.png" width="100%">    
+<img src="img/summer-school-2026-1.jpg" width="100%">    
+<!--<img src="img/gyulech-math.png" width="100%">-->    
 
 **Organized by**
 
@@ -112,7 +112,7 @@ After 17:00 working on team assignment"
 3) Presented paper at a conference or seminar, showcasing knowledge and skills educated throughout the Summer school.  
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
   
-<img src="img/summer-school-2025-class.jpg" width="100%">
+<img src="img/summer-school-2026-class.jpg" width="100%">
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
