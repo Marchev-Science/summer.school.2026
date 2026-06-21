@@ -52,15 +52,15 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
+  14:00 - 14:00 Group photo  
+  
+<a/>  
+
   14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](haralampiev/README.md)   
 
-<a/>  
-
-  17:00 - 17:00 Group photo  
-  
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments    
