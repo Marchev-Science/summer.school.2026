@@ -119,17 +119,17 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2026-06-24 Time series**  
 
-  09:30 - 11:30 Alexander Efremov - Kalman filter      
-  
-* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](efremov/README.md)   
-
 <a/>  
 
-  12:00 - 13:00 Boryana Pelova - Advanced time series techniques    
+  09:30 - 10:30 Boryana Pelova - Advanced time series techniques    
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](pelova/README.md)   
+
+  11:00 - 13:00 Alexander Efremov - Kalman filter      
+  
+* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
+* [materials](efremov/README.md)   
 
 <a/>  
 
@@ -249,7 +249,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-   11:00 - 12:00 Crisp Labs - TBD            
+   11:00 - 11:30 Ilian Georgiev - Crisp Labs            
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](stoeva/README.md)   
@@ -257,7 +257,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 <a/>      
   
-  13:00 - 17:00 Conference - presentation of the solutions to the case assignments   
+  12:30 - 17:00 Conference - presentation of the solutions to the case assignments   
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 
