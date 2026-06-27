@@ -1,13 +1,5 @@
-Introduction to data modeling environments:  
-[01_Belgium_1.xlsx](01_Belgium_1.xlsx)  
-[Intro_stuff_pbobby_python.ipynb](Intro_stuff_pbobby_python.ipynb)  
-[R_tut_new_all.R](R_tut_new_all.R)  
-[r_tut_tut.ipynb](r_tut_tut.ipynb)  
-[julia-mpu.ipynb](julia-mpu.ipynb)  
-
 Time series:  
 [Time series analysis.pptx](Time_series_analysis.pptx)  
-[sarimax-text.pdf](sarimax-text.pdf)  
 
 Feature engineering:    
 [feature_engineering.slides.html](feature_engineering.slides.html)  
@@ -16,5 +8,10 @@ Introduction to AI:
 [intro-to-AI-short.pptx](intro-to-AI-short.pptx)  
 [MAP2021Sharing.pdf](MAP2021Sharing.pdf)  
 
-Other:  
-[0_portfolio_monografia.pdf](0_portfolio_monografia.pdf)
+Links:  
+[Task Loopy...](https://ncase.me/loopy/v1.1/)  
+[GapMinder](https://www.gapminder.org/)  
+[Hans Rosling 200 Countries, 200 Years](https://www.youtube.com/watch?v=jbkSRLYSojo)  
+[Hans Rosling and Ola Rosling How not to be ignorant about the World](https://www.youtube.com/watch?v=Sm5xF-UYgdg)  
+[The magic washing machine, Hans Rosling](https://www.youtube.com/watch?v=BZoKfap4g4w)  
+[Hans Rosling: Debunking third-world myths with the best stats you've ever seen](https://www.youtube.com/watch?v=RUwS1uAdUcI)
