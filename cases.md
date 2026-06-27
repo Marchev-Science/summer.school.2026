@@ -5,70 +5,62 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
+<!--
 [Teams for the cases...](https://docs.google.com/spreadsheets/d/1WSv76OaTu7spAipzpHlRfanrYWhxcNFVs5wi5z2m6vQ/edit?usp=sharing)
-
+-->
 
 ### 1. Longevity and the Labour Market    
 
 [Case text and data...](https://github.com/Marchev-Science/case-longevity-and-labour-market)    
-<!--    
-[Solution](cases/solution4/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
--->    
+    
+[Solution](cases/solution1/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)  
+    
 
 
 ### 2. Forecasting Electricity Demand, Supply, and Price in Bulgaria       
 
 [Case text and data...](https://github.com/Marchev-Science/case-predict-electricity-prices)  
 
-<!--    
-[Solution](cases/solution5/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
--->    
+    
+[Solution](cases/solution2/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)  
+    
 
 
 ### 3. Analysis of EEG data  
 
 [Case text and data...](https://github.com/Marchev-Science/case-EEG-analysis)  
 
-<!--    
-[Solution](cases/solution1/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
--->    
+    
+[Solution](cases/solution3/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)  
+    
 
 
 ### 4. Computer vision event detection   
 
 [Case text and data...](https://github.com/Marchev-Science/case-pickup-putdown-event-detection)
 
-<!--    
-[Solution](cases/solution3/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
--->    
+    
+[Solution](cases/solution4/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)  
+    
 
 
 ### 5. A Multi-Agent System for Automated Data Science  
 
 [Case text and data...](https://github.com/Marchev-Science/case-multi-agent-system-for-automated-data-science)
 
-<!--    
-[Solution](cases/solution2/readme.md)  
-[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
-
--->    
-
-
-
-
-
-
-
-
+   
+[Solution](cases/solution5/readme.md)  
+[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)  
+    
 
 
 ## Delivery of the case solutions:
 
-1. Before the deadline (13:00,28.06.2026) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
+1. Before the deadline (11:30,28.06.2026) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
 2. The solution should consist of several files (4-5 max) without subfolders, at least the following:  
 * Code / workflow files which could be run on some of the required software for the summer school.  
 In the code or in additional files (or markdown texts) there should be:  
