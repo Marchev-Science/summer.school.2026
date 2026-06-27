@@ -110,7 +110,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   14:00 - 17:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics & Case study   
   
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](haralampiev/README.md)   
+* [materials](marchev-jr/README.md)   
 
 <a/>  
 

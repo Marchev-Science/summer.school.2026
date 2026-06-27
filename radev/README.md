@@ -1,1 +1,20 @@
-** Materials will appear here
+Slides   
+[Slides_PhD_Workshop_Uni_Sofia_PhD_Summer_School_25Jun2026.pdf](Slides_PhD_Workshop_Uni_Sofia_PhD_Summer_School_25Jun2026.pdf)  
+
+Bad examples  
+[REVIEW_form_BAS_West_Balkans_09Jan2024.pdf](REVIEW_form_BAS_West_Balkans_09Jan2024.pdf)   
+[statia-1_west_Balkans.pdf](statia-1_west_Balkans.pdf)   
+[REVIEW_form_Compliance_RegTech_24May2024.pdf](REVIEW_form_Compliance_RegTech_24May2024.pdf)   
+[statia-1_Compliance_RegTech_24May2024.pdf](statia-1_Compliance_RegTech_24May2024.pdf)   
+
+Good examples
+[Ongena_et_al_2024.pdf](Ongena_et_al_2024.pdf)   
+[Global_Banks_Regulation_Radev_22Feb2022_main.pdf](Global_Banks_Regulation_Radev_22Feb2022_main.pdf)   
+[Barth_Radev_JBF_2022.pdf](Barth_Radev_JBF_2022.pdf)   
+[Radev_EA_2022.pdf](Radev_EA_2022.pdf)  
+[Altieri_Radev_JIMF_2026.pdf](Altieri_Radev_JIMF_2026.pdf)   
+
+Assignment  
+[Radev_Penev_CReview_2026.pdf](Radev_Penev_CReview_2026.pdf)   
+
+

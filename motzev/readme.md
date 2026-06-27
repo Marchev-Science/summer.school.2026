@@ -1,8 +1,8 @@
 Lecture presentation:  
-[Summer_2025_MM.pdf](Summer_2025_MM.pdf)  
+[Summer_2026_MM.pdf](Summer_2026_MM.pdf)  
 
 Textbooks:  
-[BusForcNewISBN2Ed.pdf](BusForcNewISBN2Ed.pdf)  
+[TextBookPrintedVersion.pdf](TextBookPrintedVersion.pdf)  
 [ISLR_Seventh_Printing.pdf](ISLR_Seventh_Printing.pdf)  
 
 Other:  

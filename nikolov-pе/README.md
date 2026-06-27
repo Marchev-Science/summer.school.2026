@@ -1,1 +1,1 @@
-** Materials will appear here
+[2026_quantum_index_replication.ipynb](2026_quantum_index_replication.ipynb)
