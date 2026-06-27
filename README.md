@@ -1,7 +1,7 @@
 
 # Summer School on Modeling, AI, and Complex Systems '2026
 
-<img src="img/summer-school-2026-1.jpg" width="100%">    
+<img src="img/summer-school-2026-2.jpg" width="100%">    
 <!--<img src="img/gyulech-math.png" width="100%">-->    
 
 **Organized by**
@@ -201,7 +201,7 @@ Summer School on Modeling, AI and Complex Systems
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="img/summer-school-2026-2.jpg" width="100%">
+<img src="img/summer-school-2026-1.jpg" width="100%">
 
 
 ## Programme  
