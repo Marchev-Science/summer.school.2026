@@ -1,1 +1,5 @@
-
+* [solution 1](cases/solution1/readme.md)  
+* [solution 2](cases/solution2/readme.md)  
+* [solution 3](cases/solution3/readme.md)  
+* [solution 4](cases/solution4/readme.md)  
+* [solution 5](cases/solution5/readme.md)    
