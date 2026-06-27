@@ -259,7 +259,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 
-<!--  
+  
 
 * [solution 1](cases/solution1/README.md)  
 * [solution 2](cases/solution2/README.md)  
@@ -267,7 +267,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 * [solution 4](cases/solution4/README.md)  
 * [solution 5](cases/solution5/README.md)    
 
--->
+
 
 <a/>  
 
