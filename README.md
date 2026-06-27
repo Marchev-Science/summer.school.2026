@@ -157,29 +157,27 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Angel Marchev Jr. - UNWE, SU (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. - UNWE (angel_marchev@yahoo.co.uk)  
 * Boryana Pelova - SU (bpelova@feb.uni-sofia.bg)  
-* Boyan Markov - UNWE (boyanmarkov@gmail.com)   
+* Boyan Markov - UNWE (b.r.markov@gmail.com)   
 * Demir Tonchev -  (tonchev.demir@gmail.com)  
-<!--* Denitza Gavrailova - SU (d.gavrilova@feb.uni-sofia.bg)-->     
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)
 * Dimitar Lyubchev - UNWE (dimitar.lyubchev@gmail.com)  
-<!--* Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)-->   
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)  
-<!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)-->
-<!--* Martin Boyanov - Smule (mboyanov@gmail.com)-->
-<!--* Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)-->  
+* Lalka Stoeva - SU (lvstoeva@uni-sofia.bg)  
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)  
 * Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
 * Petar Nikolov - CuneiForm (petarnikolov1989@gmail.com)
+* Sergey Vichev - CrispLabs (sergo@crisplabs.ai)   
+* Yordan Madzunkov - () (tbd)  
 <!--* Radoslav Rusinov - UNWE (rusinovr@abv.bg)-->  
 <!--* Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)-->  
-* Yordan Madzunkov - Metacraft Labs (tbd)  
 <!--* Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)-->  
 <!--* Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)-->  
 <!--* Metodi Nikolov - Man Group ()-->  
-* Georgi Kirov - CrispLabs (georgi@crisplabs.ai)
-* Lalka Stoeva - SU (lvstoeva@uni-sofia.bg)  
-
-
+<!--* Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)-->   
+<!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)-->
+<!--* Martin Boyanov - Smule (mboyanov@gmail.com)-->
+<!--* Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)-->  
+<!--* Denitza Gavrailova - SU (d.gavrilova@feb.uni-sofia.bg)-->     
   
 **Archives**:  
 PhD Workshop (as part of VSIM conference)  
