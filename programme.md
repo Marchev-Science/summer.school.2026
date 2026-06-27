@@ -232,7 +232,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   16:30 - 17:30 Peter Nikolov - Quantum Neuron Networks     
 
 * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
-* [materials](penikolov/README.md)   
+* [materials](nikolov-pe/README.md)   
 
 <a/>  
 

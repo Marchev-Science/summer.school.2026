@@ -13,3 +13,6 @@ Bayesian Periodogram Analysis:
 [bayesian_periodogram_analysis.pptx](bayesian_periodogram_analysis.pptx)  
 [2014_harmonichni_modeli_s_promenliva_amplituda.pdf](2014_harmonichni_modeli_s_promenliva_amplituda.pdf)  
 [Presentation1.pptx](Presentation1.pptx)  
+
+Foundamentals of demographc analysis:   
+[Foundamentals_of_demographic_analysis.pdf](Foundamentals_of_demographic_analysis.pdf)
