@@ -261,11 +261,11 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
   
 
-* [solution 1](cases/solution1/README.md)  
-* [solution 2](cases/solution2/README.md)  
-* [solution 3](cases/solution3/README.md)  
-* [solution 4](cases/solution4/README.md)  
-* [solution 5](cases/solution5/README.md)    
+* [solution 1](cases/solution1/readme.md)  
+* [solution 2](cases/solution2/readme.md)  
+* [solution 3](cases/solution3/readme.md)  
+* [solution 4](cases/solution4/readme.md)  
+* [solution 5](cases/solution5/readme.md)    
 
 
 
