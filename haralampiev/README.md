@@ -6,7 +6,7 @@ Bayesian paradigm:
 [Bayesian_paradigm.pdf](Bayesian_paradigm.pdf)  
 [On the statistical paradigms - Bayesian statistics (paper)](https://kaloyan-haralampiev.info/wp-content/uploads/2010/03/doklad-1.pdf)  
 [Bayesian Inference of Relative Frequency. (In the Case of Electoral surveys)](https://kaloyan-haralampiev.info/wp-content/uploads/2010/03/article1.pdf) [Translate in Bulgarian](https://kaloyan-haralampiev.info/wp-content/uploads/2010/03/prevod-article1.pdf)  
-[Reader on Bayesian statistics](https://kaloyan-haralampiev.info/wp-content/uploads/2010/03/reader_Bayes_very_new_Internet1.pdf)  
+[Reader on Bayesian statistics](http://kaloyan-haralampiev.info/wp-content/uploads/2010/03/reader_Bayes_very_new_Internet2.pdf)  
 [Galton Plus](https://basaga.org/basaga_files/galton-plus/)   
 
 Bayesian Periodogram Analysis:  
