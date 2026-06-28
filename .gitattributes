@@ -1,0 +1,4 @@
+cases/solution2/project-working-files.zip filter=lfs diff=lfs merge=lfs -text
+lyubchev/
+[[:space:]][[:space:]]NEAT_Algorithm_Lecture_SS2026.pptx filter=lfs diff=lfs merge=lfs -text
+lyubchev/NEAT_Algorithm_Lecture_SS2026.pptx filter=lfs diff=lfs merge=lfs -text
