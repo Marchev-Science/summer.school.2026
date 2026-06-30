@@ -244,7 +244,6 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
    9:30 - 10:30 Lalka Stoeva - Multidimensional analysis and forecasting of banking stability   
 
-* [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BDRkeU63mUMS0ujziussz82)   
 * [materials](stoeva/README.md)   
 
 <a/>  
